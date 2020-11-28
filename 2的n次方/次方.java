@@ -1,9 +1,9 @@
 
-public class ¦¸¤è {
+public class Â¦Â¸Â¤Ã¨ {
 
 	public static void main(String[] args) {
 		long a=1L;
-		System.out.println(a<<32);
+		System.out.println(a<<32);//2çš„32æ¬¡æ–¹
 		System.out.println(a<<38);
 		System.out.println(a<<49);
 
